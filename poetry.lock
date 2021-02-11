@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Simulate Human Card Shuffling Techniques for use with Python Lists"
+name = "shuffle"
+optional = false
+python-versions = "*"
+version = "0.9"
+
+[metadata]
+content-hash = "376019506e38b6a9a562754268d265c11d68440b36ff9121a5f5be40c13df1ce"
+python-versions = "^3.8"
+
+[metadata.files]
+shuffle = [
+    {file = "shuffle-0.9.tar.gz", hash = "sha256:df599946faa144baf84e141dbf99da75421617fdf1f82d60374a1f3d01b273b6"},
+]
